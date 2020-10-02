@@ -1,5 +1,4 @@
-# my-command
-Termux
+
 apt update && apt upgrade -y
 termux-setup-storage
 ls
