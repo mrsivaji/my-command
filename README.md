@@ -1,0 +1,2 @@
+# my-command
+Termux
